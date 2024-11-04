@@ -1,0 +1,111 @@
+"Timestamp","Nama (Opsional)","Semester Perkuliahan","Laptop Yang Anda Gunakan Saat Ini","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Harga laptop]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Performa prosesor (CPU)]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Kapasitas RAM]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Kapasitas penyimpanan (SSD/HDD)]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Kualitas kartu grafis (GPU)]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Daya tahan baterai]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Berat laptop]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Ukuran layar]","Untuk setiap pernyataan di bawah ini, pilih angka dari 1 hingga 5 sesuai dengan tingkat KEPENTINGAN dalam keputusan Anda memilih laptop, dengan skala sebagai berikut:
+1 = Sangat tidak penting
+2 = Tidak penting
+3 = Cukup penting
+4 = Penting
+5 = Sangat penting [Resolusi layar]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Harga laptop]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Performa prosesor (CPU)]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Kapasitas RAM]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Kapasitas penyimpanan (SSD/HDD)]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Kualitas kartu grafis (GPU)]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Daya tahan baterai]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Berat laptop]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Ukuran layar]","Dalam bagian ini, Anda diminta untuk menilai laptop yang Anda gunakan atau pernah Anda gunakan berdasarkan kriteria di bawah. Berikan penilaian dari 1 hingga 5, di mana: 
+1 = Sangat buruk
+2 = Buruk
+3 = Cukup
+4 = Baik
+5 = Sangat baik [Resolusi layar]","Apa prioritas utama Anda dalam memilih laptop? ","Berapa kisaran harga laptop yang menurut Anda ideal untuk seorang mahasiswa Teknik Informatika? ","Apakah Anda lebih memilih laptop dengan performa tinggi tetapi harga lebih mahal, atau laptop dengan harga lebih murah namun performa standar? "
+"2024/10/10 7:16:36 PM GMT+7","Nicky Pascal Tambunan ","5","Asus","3","5","5","5","5","5","3","5","5","3","5","5","5","5","5","3","5","5","Harga;Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai;Kartu Grafis (GPU)","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/10 7:18:38 PM GMT+7","Jasmine Nanda Shabirah","3","Asus","3","4;5","4;5","4;5","4;5","4;5","2","4;5","4;5","4;5","4;5","4;5","4;5","4;5","4;5","4;5","4;5","4;5","Harga;Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai;Kartu Grafis (GPU)","> Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/10 7:20:30 PM GMT+7","Amellia Dwi Putri ","Semester 5","Asus","3","4","3","4","3","3","4","3","4","5","4","5","5","4","5","4","4","5","Kapasitas RAM;","> Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/10 8:05:49 PM GMT+7","Idris Syahrudin ","5","HP","4","5","5","5","5","5","4","4","4","4","5","5","5","5","5","4","4","4","Harga;Performa Prosesor (CPU);Kapasitas RAM","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/11 12:28:53 AM GMT+7","Nadia","5","Asus","4","5","5","5","5","5","2","2","2","4","3","3","3","3","3","4","4","4","Harga;Performa Prosesor (CPU);Kapasitas RAM","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/11 6:34:14 AM GMT+7","flower","5","Hp","3","4","4","4","4","5","4","4","5","3","4","4","3","4","3","4","3","4","Harga;Performa Prosesor (CPU);Daya tahan baterai","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/11 4:46:39 PM GMT+7","Zulaeha ","5","Hp","3","3","3","3","3","3","3","3","3","3","3","2","2","3","3","3","3","3","Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/11 6:51:32 PM GMT+7","Rika","Semester 7","Asus vivobook 15 inch","4","4","5","5","4","5","3","4","4","4","4","4","4","4","5","3","4","4","Harga;Kapasitas RAM;Daya tahan baterai","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/22 2:30:16 PM GMT+7","Dimas Wahyu Pratama","Semester 1","Asus","4;5","5","5","5","5","5","3","4","4","4","5","5","5","5","4","5","4","4","Performa Prosesor (CPU);Kapasitas RAM;Kartu Grafis (GPU)","Rp. 5.000.000 - Rp. 10.000.000","Performa Standar (Harga lebih Murah)"
+"2024/10/22 11:29:54 PM GMT+7","jasmine nanda shabirah","3","mac pro","4","4","4","4","4","4","4","4","4","4","4","4","4","4","4","4","4","4","Harga;Performa Prosesor (CPU);Kapasitas RAM","> Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/25 9:51:15 PM GMT+7","Miftahul Jannah","5","Lenovo","3","3","3","3","3","3","3","3","3","3","3","3","3","3","3","3","3","3","Harga;Kapasitas RAM;Daya tahan baterai","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 8:00:00 AM GMT+7","Feibert Sianturi","5","Lenovo","3","4","4","4","4","4","4","4","4","4","4","4","3","3;4","4","4","3","3","Performa Prosesor (CPU);Daya tahan baterai;Kartu Grafis (GPU)","Rp. 5.000.000 - Rp. 10.000.000","Performa Standar (Harga lebih Murah)"
+"2024/10/26 8:06:39 AM GMT+7","Firly Maharani ","5","Hp","4","5","5","5","5","5","4","4","5","4","4","4","4","4","3","3","4","4","Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 9:09:40 AM GMT+7","Vivie Zuliani Erikasari ","5","HP","5","5","5","5","5","5","5","5","4","5","5","5","5","5","5","5","5","5","Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 9:32:40 AM GMT+7","Yehezkiel Juandro Metta ","5","Asus Tuf Gaming F15 2022 ","5","5","5","5","5","5","5","5","5","5","1","1","1","1","5","1","1","1","Performa Prosesor (CPU);Kapasitas RAM;Daya tahan baterai","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 10:46:44 AM GMT+7","Lee Royce Ricaldo ","10","Lenovo Ideapad slim 3 core i5 ","3","4","4","4","4","5","2","4","5","4","4","4","4","4","4","4","4","4","Performa Prosesor (CPU);Kapasitas RAM;Kartu Grafis (GPU)","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 10:51:29 AM GMT+7","aca","5","Hp","3","4","4","4","4","5","5","5","5","3","4","3","4","3","3","4","3","4","Harga;Kapasitas RAM;Daya tahan baterai","< Rp. 5.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 10:55:38 AM GMT+7","keywa","3","acer","3","4","4","4","4","4","3","4","4","3","4","4","4","4","4","4","4","4","Harga;Performa Prosesor (CPU);Kapasitas RAM","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 10:55:39 AM GMT+7","","4","advan","5","5","5","5","5","3","5","5","5","5","5","5","5","5","5","5","5","5","Performa Prosesor (CPU);Kapasitas RAM;Kartu Grafis (GPU)","Rp. 10.000.00 - Rp. 15.000.000","Performa Tinggi (Harga Mahal)"
+"2024/10/26 11:56:48 AM GMT+7","Adiel Jeremia C Sitorus","-","Laptop Acer Aspire A315","5","5","5","5","5","5","5","5","5","3","2","2","3","2","3","1","2","3","Performa Prosesor (CPU);Kapasitas RAM;Kartu Grafis (GPU)","Rp. 5.000.000 - Rp. 10.000.000","Performa Tinggi (Harga Mahal)"
